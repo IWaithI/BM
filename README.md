@@ -560,7 +560,7 @@ The 2 items above are not owned by me, They go to there respected owners
 		height: 30px
 	}
 	#app-mount .typeWindows-1za-n7:after {
-		content: "GGO Kirito v1.2.3 By VaporousCreeper";
+		content: "BMoon v1.0.0 XL By IWaithI";
 		color: rgb(255,255,255,0.5);
 		font-weight: 500;
 
